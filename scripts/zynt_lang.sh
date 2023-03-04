@@ -1,4 +1,4 @@
-# Just ameteur coding, nothing to see here
+# Just an ameteur coding, nothing to see here
 
 LANG=$(setxkbmap -query | grep layout)
 
