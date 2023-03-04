@@ -68,4 +68,6 @@
 <p>Line 51</p>
 <p><i>background-color:			#FFFFFF00;</i></p>
 <hr>
-<p>✏️ Only prismlauncher-qt5; prismlauncher-qt5-git supports QT themes</p?
+<p>✏️ Only <i>prismlauncher-qt5 / prismlauncher-qt5-git</i> supports QT themes</p>
+<hr>
+<p>✏️ Customized version of bluetooth module. Credits to <a href="https://github.com/msaitz/polybar-bluetooth">fully functional BT module</a></p>
