@@ -1,4 +1,3 @@
-# fdotfiles
 <h1><a href="https://www.reddit.com/r/unixporn/comments/11fb824/bspwm_my_first_rice_on_my_first_laptop/">Dotfiles for My First BSPWM Rice</a>.</h1>
 <img src="https://user-images.githubusercontent.com/106245401/222894938-4e033c23-7f74-4f69-96b2-3250f42fe2c9.png">
 <h2>🌾| Info</h2>
